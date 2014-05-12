@@ -1,0 +1,5 @@
+c:\demos\02 - Object-oriented JS\ObjectOrientedJS\bin\ObjectOrientedJS.dll
+c:\demos\02 - Object-oriented JS\ObjectOrientedJS\bin\ObjectOrientedJS.pdb
+c:\demos\02 - Object-oriented JS\ObjectOrientedJS\obj\Debug\ObjectOrientedJS.csprojResolveAssemblyReference.cache
+c:\demos\02 - Object-oriented JS\ObjectOrientedJS\obj\Debug\ObjectOrientedJS.dll
+c:\demos\02 - Object-oriented JS\ObjectOrientedJS\obj\Debug\ObjectOrientedJS.pdb
