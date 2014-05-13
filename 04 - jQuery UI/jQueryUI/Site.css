@@ -1,0 +1,29 @@
+﻿.small {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.large {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+}
+
+.xlarge {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    height: 500px;
+    width: 500px;
+    background-color: yellow;
+}
+
+.ui-draggable-dragging {
+
+    opacity: 0.5;
+}
+

@@ -10,3 +10,9 @@ CoffeeScript
 jQuery
 	http://trends.builtwith.com/javascript
 
+jqGrid
+	http://www.trirand.com/blog/
+	
+KendoUI
+	http://demos.telerik.com/kendo-ui/web/overview/index.html
+

@@ -1,0 +1,5 @@
+c:\demos\04 - jQuery UI\jQueryUI\bin\jQueryUI.dll
+c:\demos\04 - jQuery UI\jQueryUI\bin\jQueryUI.pdb
+c:\demos\04 - jQuery UI\jQueryUI\obj\Debug\jQueryUI.csprojResolveAssemblyReference.cache
+c:\demos\04 - jQuery UI\jQueryUI\obj\Debug\jQueryUI.dll
+c:\demos\04 - jQuery UI\jQueryUI\obj\Debug\jQueryUI.pdb
