@@ -1,0 +1,5 @@
+c:\demos\03 - jQuery\jQuery\bin\jQuery.dll
+c:\demos\03 - jQuery\jQuery\bin\jQuery.pdb
+c:\demos\03 - jQuery\jQuery\obj\Debug\jQuery.csprojResolveAssemblyReference.cache
+c:\demos\03 - jQuery\jQuery\obj\Debug\jQuery.dll
+c:\demos\03 - jQuery\jQuery\obj\Debug\jQuery.pdb
