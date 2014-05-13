@@ -1,0 +1,5 @@
+c:\demos\05 - HTML5 Networking\CORSClient\bin\CORSClient.dll
+c:\demos\05 - HTML5 Networking\CORSClient\bin\CORSClient.pdb
+c:\demos\05 - HTML5 Networking\CORSClient\obj\Debug\CORSClient.csprojResolveAssemblyReference.cache
+c:\demos\05 - HTML5 Networking\CORSClient\obj\Debug\CORSClient.dll
+c:\demos\05 - HTML5 Networking\CORSClient\obj\Debug\CORSClient.pdb

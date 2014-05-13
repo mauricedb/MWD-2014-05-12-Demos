@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>05 - HTML5 Networking</title>
+</head>
+<body>
+
+    <button id="load">Click to load</button>
+    <pre id="result"></pre>
+
+    <script src="Scripts/jquery-2.1.0.js"></script>
+    <script>
+
+        $(function () {
+            $("#load").click(function () {
+                $.getJSON("http://localhost:10606/api/books/1").then(
+                    function (e) {
+                        $("#result").text(JSON.stringify(e));
+                    },
+                    function error(e) {
+                        $("#result").text(JSON.stringify(e));
+                    });
+            });
+        });
+
+    </script>
+</body>
+</html>
