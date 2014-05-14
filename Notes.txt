@@ -10,6 +10,9 @@ CoffeeScript
 jQuery
 	http://trends.builtwith.com/javascript
 
+jQuery Mockjax
+	https://github.com/appendto/jquery-mockjax
+
 jqGrid
 	http://www.trirand.com/blog/
 	
