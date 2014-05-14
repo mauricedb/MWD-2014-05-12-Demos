@@ -30,3 +30,6 @@ Fiddler
 
 Socket.IO
 	http://socket.io/
+
+AngularJS Batarang (Chrome plugin)
+	https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en

@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>08 - AngularJS Directives</title>
+</head>
+    <body ng-app="theApp" ng-controller="mainCtrl">
+        
+        <div>{{now}}</div>
+        
+        <p rbs-alert-on-click="" my-msg="msg" my-now="now" ng-model="demo">Some text</p>
+        
+        <rbs-alert-on-click my-msg="msg" ng-model="demo">Some data</rbs-alert-on-click>
+
+        <script src="Scripts/angular.js"></script>
+        <script src="Demo.js"></script>
+    </body>
+</html>

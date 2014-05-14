@@ -1,0 +1,5 @@
+c:\demos\08 - AngularJS Directives\AngularJSDirectives\bin\AngularJSDirectives.dll
+c:\demos\08 - AngularJS Directives\AngularJSDirectives\bin\AngularJSDirectives.pdb
+c:\demos\08 - AngularJS Directives\AngularJSDirectives\obj\Debug\AngularJSDirectives.csprojResolveAssemblyReference.cache
+c:\demos\08 - AngularJS Directives\AngularJSDirectives\obj\Debug\AngularJSDirectives.dll
+c:\demos\08 - AngularJS Directives\AngularJSDirectives\obj\Debug\AngularJSDirectives.pdb
