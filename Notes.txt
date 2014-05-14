@@ -16,3 +16,14 @@ jqGrid
 KendoUI
 	http://demos.telerik.com/kendo-ui/web/overview/index.html
 
+Can I Use
+	http://caniuse.com/
+	
+Modernizr
+	http://modernizr.com/
+	
+Fiddler
+	http://www.telerik.com/fiddler
+
+Socket.IO
+	http://socket.io/

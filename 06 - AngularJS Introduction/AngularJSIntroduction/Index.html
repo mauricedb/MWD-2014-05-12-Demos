@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>06 - AngularJS Introduction</title>
+</head>
+    <body ng-app="myApp">
+        
+        {{1 + 1}}
+        
+        <div ng-controller="MyFirstController">
+            
+            {{model.name}}
+            <br />
+            <span ng-bind="model.name"></span>
+            <br />
+            <input type="text" ng-model="model.name" />
+            <br />
+            <button ng-click="showModel()">Show me</button>
+            
+            <input type="text" ng-model="model.filterExp" />
+            <ul>
+                <li ng-repeat="book in model.books | filter:model.filterExp">
+                    {{book.title}}
+                    <input type="text" ng-model="book.title" />
+                </li>
+            </ul>
+            <button ng-click="addBook()">add</button>
+            
+            {{model.now | date:'fullDate'}}
+            <br />
+            {{model.number | currency}}
+
+        </div>
+
+        <script src="Scripts/angular.js"></script>
+        <script src="Demo.js"></script>
+    </body>
+</html>

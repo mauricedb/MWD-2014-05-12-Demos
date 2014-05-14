@@ -1,0 +1,5 @@
+c:\demos\06 - AngularJS Introduction\AngularJSIntroduction\bin\AngularJSIntroduction.dll
+c:\demos\06 - AngularJS Introduction\AngularJSIntroduction\bin\AngularJSIntroduction.pdb
+c:\demos\06 - AngularJS Introduction\AngularJSIntroduction\obj\Debug\AngularJSIntroduction.csprojResolveAssemblyReference.cache
+c:\demos\06 - AngularJS Introduction\AngularJSIntroduction\obj\Debug\AngularJSIntroduction.dll
+c:\demos\06 - AngularJS Introduction\AngularJSIntroduction\obj\Debug\AngularJSIntroduction.pdb
