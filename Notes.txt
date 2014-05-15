@@ -40,14 +40,14 @@ AngularJS IO
 Selenium plugins for FireFox
 	http://docs.seleniumhq.org/
 
-	
-	
-Evaluation
-	http://develop.force.com/os
-	
+Node.JS Restify
+	http://mcavage.me/node-restify/
+
 	
 	
 	
+Demo code
+	https://github.com/mauricedb/MWD-2014-05-12-Demos
 	
 	
 	

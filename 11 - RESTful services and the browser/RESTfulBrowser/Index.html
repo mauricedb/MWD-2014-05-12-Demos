@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>11 - RESTful services and the browser</title>
+</head>
+    <body>
+        
+       <!-- <img src="/api/books/1?$format=jpeg" alt="The book image" />-->
+        
+        <button id="loadAll">Load data</button>
+        <ul id="data"></ul>
+        
+        
+        <button id="loadOne">Load one book</button>
+        
+        <script src="Scripts/jquery-1.8.2.js"></script>
+        <script>
+            $(function() {
+                $("#loadAll").click(function () {
+                    $.getJSON("/api/books").then(function(books) {
+
+                        books.forEach(function(book) {
+                            $("<li>").text(book.Title).appendTo("#data");
+                        });
+
+                    });
+
+                });
+
+                $("#loadOne").click(function() {
+                    $.getJSON("/api/books/1").then(function(book) {
+
+                        $("<li>").text(book.Title).appendTo("#data");
+
+                    });
+
+                });
+
+            })
+
+        </script>
+    </body>
+</html>
