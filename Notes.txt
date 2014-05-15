@@ -39,3 +39,19 @@ AngularJS IO
 
 Selenium plugins for FireFox
 	http://docs.seleniumhq.org/
+
+	
+	
+Evaluation
+	http://develop.force.com/os
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
