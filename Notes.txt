@@ -33,3 +33,9 @@ Socket.IO
 
 AngularJS Batarang (Chrome plugin)
 	https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en
+
+AngularJS IO	
+	http://angular-ui.github.io/
+
+Selenium plugins for FireFox
+	http://docs.seleniumhq.org/

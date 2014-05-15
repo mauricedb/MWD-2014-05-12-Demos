@@ -1,0 +1,5 @@
+c:\demos\09 - Testing AngularJS\TestingAngularJS\bin\TestingAngularJS.dll
+c:\demos\09 - Testing AngularJS\TestingAngularJS\bin\TestingAngularJS.pdb
+c:\demos\09 - Testing AngularJS\TestingAngularJS\obj\Debug\TestingAngularJS.csprojResolveAssemblyReference.cache
+c:\demos\09 - Testing AngularJS\TestingAngularJS\obj\Debug\TestingAngularJS.dll
+c:\demos\09 - Testing AngularJS\TestingAngularJS\obj\Debug\TestingAngularJS.pdb
